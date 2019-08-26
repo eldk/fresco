@@ -7,9 +7,9 @@
  * of patent rights can be found in the PATENTS file in the same directory.
  */
 
+
 package com.facebook.common.internal;
 
-import com.android.internal.util.Predicate;
 
 /**
  * Additional predicates.

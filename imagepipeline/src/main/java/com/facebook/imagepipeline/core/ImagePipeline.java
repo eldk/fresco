@@ -12,7 +12,7 @@ package com.facebook.imagepipeline.core;
 import android.net.Uri;
 import bolts.Continuation;
 import bolts.Task;
-import com.android.internal.util.Predicate;
+import com.facebook.common.internal.Predicate;
 import com.facebook.cache.common.CacheKey;
 import com.facebook.common.internal.Objects;
 import com.facebook.common.internal.Preconditions;
